@@ -19,6 +19,17 @@
 <p align="center">────────── ✿ ──────────</p>
 
 ---
+
+## 
+| Keterangan | Detail |
+|------------|--------|
+| **Nama**   | Zelsya Rizqita Rahmadhini |
+| **NIM**    | 2409116022 |
+| **Kelas**  | A'24 Sistem Informasi|
+
+
+---
+
 ## Deskripsi Aplikasi
 
 Calmera adalah aplikasi sederhana yang dikembangkan untuk membantu pengguna mengelola dan memantau penggunaan produk skincare secara lebih teratur dan terorganisir. Aplikasi ini dirancang sebagai solusi praktis bagi pengguna yang ingin memahami dan mengatur perjalanan perawatan kulitnya dengan lebih baik. Melalui Calmera, pengguna dapat mencatat nama produk, jenis produk, serta cara pemakaian atau catatan penting lainnya dalam satu tempat yang mudah diakses dan diperbarui. Dengan fitur pengelolaan data yang lengkap, aplikasi ini membantu pengguna menghindari kebingungan dalam penggunaan produk, menjaga konsistensi rutinitas, serta memahami perkembangan perawatan kulit secara lebih terstruktur.
