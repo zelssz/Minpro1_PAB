@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  supabase_flutter: ^2.5.6
+  flutter_dotenv: ^5.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -20,3 +23,6 @@ flutter:
 
   assets:
     - assets/images/banner.jpg
+    - .env
+    - assets/images/baground.jpeg
+  
